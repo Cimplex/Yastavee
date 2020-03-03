@@ -1,0 +1,16 @@
+{
+  "name": "smarttv",
+  "version": "1.0.0",
+  "description": "turns off the tv",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "reuben deleon",
+  "license": "ISC",
+  "dependencies": {
+    "chromecast-api": "^0.3.1",
+    "express": "^4.17.1",
+    "nodecastor": "^0.1.9"
+  }
+}
